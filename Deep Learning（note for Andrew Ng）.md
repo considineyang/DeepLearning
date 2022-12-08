@@ -58,3 +58,29 @@ the course will focus on structured data.
 
 deeplearning.ai
 
+forward pause/forward propagation step 
+
+backward pause/backward propagation step
+
+ 
+
+## Basics of Neural Network Programming 
+
+## Binary Classification(二元分类)
+
+3 64 * 64 matrices denote a picture in computer turn these pixel intensity values into a feature vector 
+
+In binary classification, our goal is to learn a classifier that can input an image represented by this feature vector x. and predict whether the corresponding label y is 1 or 0.
+
+that is whether this is a cat image or a non-cat image.
+
+### Notation
+
+A single training example is represented by a pair  (x,y) where x is an x-dimensional feature vector y is the label is either 0 or 1.
+
+Your training sets will comprise m training examples
+
+m : (x1,y1),(x2,y2)....  
+
+
+
