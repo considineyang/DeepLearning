@@ -82,5 +82,45 @@ Your training sets will comprise m training examples
 
 m : (x1,y1),(x2,y2)....  
 
+### Logistic Regression
+
+Linear regression / logistic regression
+
+sigmoid function make the value of y be 0 - 1
+
+keep the parameter W and parameter B separate 
+
+### Logistic Regression cost function
+
+![Screenshot 2022-12-08 at 21.48.34](/Users/yangwenbo/Desktop/DeepLearning/images/Screenshot%202022-12-08%20at%2021.48.34.png)
+
+Loss(error) function: to measure how well our algorithm is doing 
+
+how good our output y hat is when the true label is y.
+
+![Screenshot 2022-12-08 at 21.58.00](/Users/yangwenbo/Desktop/DeepLearning/images/Screenshot%202022-12-08%20at%2021.58.00.png)
+
+
+
+Coss function: which measures how well you are doing an entire training set
+
+the loss function is applied to just a single training example , the cost function is the cost of your parameters
+
+### Gradient Descent
+
+![Screenshot 2022-12-11 at 15.06.05](/Users/yangwenbo/Desktop/DeepLearning/images/Screenshot%202022-12-11%20at%2015.06.05.png)
+
+Derivative term
+
+
+
+
+
+
+
+
+
+
+
 
 
