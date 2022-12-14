@@ -116,6 +116,14 @@ Derivative term
 
 
 
+#### Gradient  descent on m examples
+
+### Logistic regression on m examples
+
+
+
+
+
 
 
 
